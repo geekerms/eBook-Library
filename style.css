@@ -1,0 +1,69 @@
+div.a1{
+    text-align: center;
+}
+
+/*-------------for navbar background color-------------*/
+.navbar-custom{
+    background-color: black;
+}
+
+/*-------for navbar text and brand color-----------*/
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+            color: white; 
+} 
+
+
+/*--------------to specify the size and round of Admin login button------ */
+.button {
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  cursor: pointer;
+  }
+.button1 {
+  background-color:  rgb(9, 9, 95); 
+  border-radius: 10px;
+  padding: 7px 7px;
+  width: 40%;
+}
+.button2{
+ background-color:    rgb(10, 10, 82); 
+ border-radius: 10px;
+ padding: 5px 9px 5px 11px;
+ 
+}
+
+.button3{
+ background-color:      rgb(10, 10, 82);
+ border-radius: 10px;
+ padding: 5px 9px 5px 11px;
+ width: 50%;
+
+}
+
+
+/*-------------2nd navbar--------------------------*/
+
+  .navbar2 a:hover, .dropdown:hover .dropbtn {
+    background-color: #00203FFF;
+  }
+  
+
+
+
+  /* ---------------------After navbar------------------------*/
+  
+  .box{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+  }
+
+  .quotes{
+    font-family: 'Times New Roman', Times, serif;
+ 
+  }

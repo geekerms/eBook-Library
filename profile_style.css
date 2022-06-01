@@ -1,0 +1,70 @@
+
+      .coursel1{
+       width: 895px;
+       margin-left: -1px;  
+       height: 300px;
+       margin-top: 0px;
+      }
+
+      .box1{
+
+         width: 895px;
+         border:solid 1px black;
+         height: 300px;
+         background-color: teal;
+      }
+      
+.box2{
+width: 895px;
+border:solid 1px black;
+height: 300px;
+background-color: teal;
+}
+
+.book-size{
+  margin-top: 9px;
+   height: 280px;
+   width: 260px;
+   border:solid 1px black;
+      /* background-image: url("images/lib.jpeg"); */
+   background-color: aliceblue;
+}
+
+
+.box-under-book{
+
+   margin-left: 34px;
+   height: 230px;
+   width: 190px;
+   border:solid 1px black;
+}
+
+
+
+/*-------------------------to change coursel color--------------------------- */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  /* outline: black; */
+  /* background-size: 50px 50px; */
+  /* border-radius: 50%;
+  border: 1px solid black;*/
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: navy;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: navy;
+}
+
+/*---------------------------finish of coursel color---------------------- */
+
